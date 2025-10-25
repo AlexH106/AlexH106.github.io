@@ -3,7 +3,7 @@ const portfolioData = {
   "profile": {
     "name": "Aleksandr Hovsepyan",
     "university": "TU Dublin",
-    "degree": "BSc in Computing (Cybersecurity)",
+    "degree": "Bachelor of Science (BSc) in Digital Forensics and Cybersecurity",
     "tagline": "Cybersecurity Student & Security Researcher",
     "bio": "Final year cybersecurity student at TU Dublin with hands-on experience in penetration testing, secure software development, and digital forensics. Passionate about building secure systems and contributing to the cybersecurity community.",
     "email": "alex.hovsepyan166@gmail.com",
