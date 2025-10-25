@@ -491,7 +491,7 @@ const portfolioData = {
   ],
   "education": {
     "university": "TU Dublin",
-    "degree": "BSc in Computing (Cybersecurity)",
+    "degree": "Bachelor of Science (BSc) in Digital Forensics and Cybersecurity",
     "overallProgress": {
       "completedCredits": 180,
       "totalCredits": 240
