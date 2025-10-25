@@ -1,7 +1,7 @@
 # Cybersecurity Portfolio
 
 ## About
-Professional cybersecurity portfolio for Aleksandr Hovsepyan, final year BSc Computing (Cybersecurity) student at TU Dublin.
+Professional cybersecurity portfolio for Aleksandr Hovsepyan, final year Bachelor of Science (BSc) in Digital Forensics and Cybersecurity student at TU Dublin.
 
 ## Contents
 
